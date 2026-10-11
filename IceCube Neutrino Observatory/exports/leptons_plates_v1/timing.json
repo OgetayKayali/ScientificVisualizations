@@ -1,0 +1,117 @@
+{
+  "duration": 82,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "paragraph_boundary": 36,
+  "transition": [
+    35.4,
+    40.6
+  ],
+  "timing": "Estimated Turkish narration; not aligned to recorded voice.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.2,
+      "narration": "Nötrinolar ender de olsa maddeyle etkileşiyor.",
+      "visual": "Çok sayıda ν maddeyi geçer; bir olay seçilir."
+    },
+    {
+      "start": 4.2,
+      "end": 7.2,
+      "narration": "Etkileştiğinde diğer temel parçacıklar ortaya çıkıyor.",
+      "visual": "İlk etkileşmede kısa ikincil izler ve bir elektron belirir."
+    },
+    {
+      "start": 7.2,
+      "end": 11,
+      "narration": "Bunlardan bizi ilgilendirenler özellikle elektronlar ve müonlar.",
+      "visual": "Ayrı bir ikinci olayda müon oluşur; iki ayrı sıra kurulur."
+    },
+    {
+      "start": 11,
+      "end": 14.5,
+      "narration": "Elektronu zaten biliyorsunuz, negatif yüklü parçacık.",
+      "visual": "e⁻ sembolü ve elektron vurgulanır."
+    },
+    {
+      "start": 14.5,
+      "end": 20.2,
+      "narration": "Müonu elektronun 207 kat ağır hali gibi düşünebilirsiniz.",
+      "visual": "m(μ⁻) ≈ 207 m(e⁻) kütle karşılaştırması."
+    },
+    {
+      "start": 20.2,
+      "end": 27.6,
+      "narration": "Nötrinoları tespit etmek için en çok işimize en çok yarayan temel parçacıklar müonlar.",
+      "visual": "Üst sırada elektronun kısa ve dallanan izi; alt sırada müonun uzun izi."
+    },
+    {
+      "start": 27.6,
+      "end": 36,
+      "narration": "Çünkü elektrondan çok daha ağır oldukları için, yollarında önlerine onları durduracak pek bir şey kolay kolay çıkamıyor.",
+      "visual": "Uzun müon izi ve kısa elektron sağanağı karşılaştırılır; geçiş hazırlanır."
+    },
+    {
+      "start": 36,
+      "end": 41.5,
+      "narration": "Bunu sırasıyla dizilmiş metal plakalara ateş etmek gibi düşünebilirsiniz.",
+      "visual": "Aynı konumdaki atomlar kesintisiz biçimde metal plakalara dönüşür."
+    },
+    {
+      "start": 41.5,
+      "end": 46,
+      "narration": "Metal plakalar burada ortamdaki atomları temsil ediyor.",
+      "visual": "Plakaların üzerinde atom simgeleri kısa süre yeniden belirir."
+    },
+    {
+      "start": 46,
+      "end": 50.5,
+      "narration": "9 mm tabancayla ateşleyeceğimiz mermi de elektronu.",
+      "visual": "Üst sırada küçük mermi; e⁻ ve 9 mm eşleştirmesi."
+    },
+    {
+      "start": 50.5,
+      "end": 54,
+      "narration": "Bu mermi mutlaka birkaç plakayı geçer",
+      "visual": "Küçük mermi ilk plakalara girer."
+    },
+    {
+      "start": 54,
+      "end": 57.2,
+      "narration": "ama her seferinde yolundan biraz şaşar,",
+      "visual": "Vuruşlardan sonra iz yön değiştirir."
+    },
+    {
+      "start": 57.2,
+      "end": 60.2,
+      "narration": "metal plakadan parçalar koparır,",
+      "visual": "Plaka parçaları ve mermi parçaları aynı görünümde dağılır."
+    },
+    {
+      "start": 60.2,
+      "end": 66.2,
+      "narration": "mermi nereden geldi, hangisi mermi, hangisi plakadan koptu anlamak zor.",
+      "visual": "Kısa, dağılmış iz ve karışan parçalar üst sırada kalır."
+    },
+    {
+      "start": 66.2,
+      "end": 72.5,
+      "narration": "Öte yandan 50 kalibre gibi çok daha büyük bir tüfekle ateş edecek olursak,",
+      "visual": "Alt sırada daha büyük temsili mermi; μ⁻ ve .50 eşleştirmesi."
+    },
+    {
+      "start": 72.5,
+      "end": 78.7,
+      "narration": "plakaları delip geçer, uzunca bir süre ciddi bir etkiye maruz kalmaz.",
+      "visual": "Büyük mermi dizi boyunca daha düz bir iz bırakır; küçük delikler oluşur."
+    },
+    {
+      "start": 78.7,
+      "end": 82,
+      "narration": "Bu da bizim müonumuz oluyor.",
+      "visual": "Mermi işareti μ⁻ parçacık simgesine dönüşür; karşılaştırmalı son tutuş."
+    }
+  ]
+}

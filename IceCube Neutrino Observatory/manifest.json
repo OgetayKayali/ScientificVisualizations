@@ -1,0 +1,122 @@
+[
+  {
+    "id": "01",
+    "title": "IceCube detector array",
+    "version": "icecube_array_v2_4k",
+    "duration": 32.0,
+    "fps": 30,
+    "master": "exports/icecube_array_v2_4k/01_icecube_dizilim_yazisiz_4k.mp4",
+    "preview": "exports/icecube_array_v2/01_icecube_dizilim_yazisiz.mp4",
+    "source": "animation/icecube_samples/export_array_4k.py",
+    "master_sha256": "853edde5a247c8a1e6de331fdd2291f950b173d0ad20f198da2a6034368ac3cb",
+    "preview_sha256": "2fe4897a240c3431c220ab76b5932163c14690e7f18dade609fbc6b990008b24"
+  },
+  {
+    "id": "02",
+    "title": "PMT electron multiplication",
+    "version": "pmt_bunches_v2",
+    "duration": 24.0,
+    "fps": 30,
+    "master": "exports/pmt_bunches_v2/02_pmt_elektron_demetleri_4k.mp4",
+    "preview": "exports/pmt_bunches_v2/02_pmt_elektron_demetleri_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_pmt_v2.py",
+    "master_sha256": "45665a51b4656b417fbf594ee431b2f8e7d6634aa34dc9784c63367ddd835b28",
+    "preview_sha256": "673f95d442e2eb08cd5922e37dbc4db57aee6ce8fabde943d607e7a56b1b83fc"
+  },
+  {
+    "id": "03",
+    "title": "Solar photons and neutrinos",
+    "version": "solar_neutrinos_v2",
+    "duration": 34.0,
+    "fps": 30,
+    "master": "exports/solar_neutrinos_v2/03_gunes_notrinolari_4k.mp4",
+    "preview": "exports/solar_neutrinos_v2/03_gunes_notrinolari_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_solar_neutrinos.py",
+    "master_sha256": "5c4ef9db539c57f7b01ed840cd3b6ba838130393b6de20fd567b14d34ff03180",
+    "preview_sha256": "a84abec4964a429a14ca89a668593de6233b3472d2b89000b0f1ceecbdafa8a0"
+  },
+  {
+    "id": "04",
+    "title": "Electrons, muons and metal plates",
+    "version": "leptons_plates_v1",
+    "duration": 82.0,
+    "fps": 30,
+    "master": "exports/leptons_plates_v1/04_notrino_elektron_muon_plakalar_4k.mp4",
+    "preview": "exports/leptons_plates_v1/04_notrino_elektron_muon_plakalar_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_leptons_plates.py",
+    "master_sha256": "eb87f9eb984cf576bc96bf925a01c714d4c8a1d8ba97426ec010baa026902f29",
+    "preview_sha256": "f5d400f039746ee8b4e2398995ffb35cd7d182664e4bf6efb222bdd13d66692d"
+  },
+  {
+    "id": "05",
+    "title": "Light speed in vacuum and water",
+    "version": "light_speed_v1",
+    "duration": 40.0,
+    "fps": 30,
+    "master": "exports/light_speed_v1/05_isigin_hizi_vakum_su_4k.mp4",
+    "preview": "exports/light_speed_v1/05_isigin_hizi_vakum_su_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_light_speed.py",
+    "master_sha256": "e51da0d15ccf4aafbb2f2906629c013ee82b4c2aa3df7346bb2d75a11863798a",
+    "preview_sha256": "9634b25d5b861d5761ef51e15d5567f6af114cca849bc308dcdbacf7d8674444"
+  },
+  {
+    "id": "06",
+    "title": "Sonic boom and Cherenkov radiation",
+    "version": "cherenkov_v2",
+    "duration": 32.0,
+    "fps": 30,
+    "master": "exports/cherenkov_v2/06_sonik_patlama_cherenkov_4k.mp4",
+    "preview": "exports/cherenkov_v2/06_sonik_patlama_cherenkov_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_cherenkov_v2.py",
+    "master_sha256": "7aec22b2439df2136d005622fc65568b47004714de0faec3d061b4b876dae4b5",
+    "preview_sha256": "e9e894375b34b051d39465b22e318697161099a55332145cb2fe7fc1fc3c8d9a"
+  },
+  {
+    "id": "07",
+    "title": "Direction, timing and ice calibration",
+    "version": "direction_calibration_v3",
+    "duration": 132.0,
+    "fps": 30,
+    "master": "exports/direction_calibration_v3/07_yon_zamanlama_buz_kalibrasyon_4k.mp4",
+    "preview": "exports/direction_calibration_v3/07_yon_zamanlama_buz_kalibrasyon_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_direction_calibration_v3.py",
+    "master_sha256": "0d929cd3caccd2b1059b48c691ade29a706d20dc7ab3f8608ae353e3d8752138",
+    "preview_sha256": "71efde4696e48851c1429afa1fcaf4ff56725be8a44a94152cf87885c13b8a76"
+  },
+  {
+    "id": "08",
+    "title": "IceCube history",
+    "version": "icecube_history_v1",
+    "duration": 70.0,
+    "fps": 30,
+    "master": "exports/icecube_history_v1/08_icecube_tarihce_4k.mp4",
+    "preview": "exports/icecube_history_v1/08_icecube_tarihce_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_history.py",
+    "master_sha256": "2cbcd2d26f117c67890c83a82367089019294347b9e4953a49e5336e8bfde5d3",
+    "preview_sha256": "cefe1b4a9b27ca9a601498a96a19baac0abbc10758ef9a8c3c69769fc8f8dc3b"
+  },
+  {
+    "id": "09",
+    "title": "Understanding the world with light",
+    "version": "light_applications_v1",
+    "duration": 40.0,
+    "fps": 30,
+    "master": "exports/light_applications_v1/09_isikla_anlamak_4k.mp4",
+    "preview": "exports/light_applications_v1/09_isikla_anlamak_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_light_applications.py",
+    "master_sha256": "b4844faa6d81fb9aead56789cf31f74e15ce9b3fc7c68fcc00ff09cb5530478f",
+    "preview_sha256": "a047723edf4cdd336b936b20c17a5a9a69bc7c92a3d2625f026e9bda372616ef"
+  },
+  {
+    "id": "10",
+    "title": "Standard Model and cosmic neutrinos",
+    "version": "particle_table_v2",
+    "duration": 38.0,
+    "fps": 30,
+    "master": "exports/particle_table_v2/10_temel_parcaciklar_notrinolar_4k.mp4",
+    "preview": "exports/particle_table_v2/10_temel_parcaciklar_notrinolar_onizleme_1080p.mp4",
+    "source": "animation/icecube_samples/render_particle_table_v2.py",
+    "master_sha256": "0ac1d2302bdd410d8ecd14c61a93ec359bd8cd357e59d0eefe3cbb523f6c2307",
+    "preview_sha256": "0dbd20daf9c640cb1fd2f0f7e7440b497a84f649c0858fdd2f2134e4a9dc08ed"
+  }
+]

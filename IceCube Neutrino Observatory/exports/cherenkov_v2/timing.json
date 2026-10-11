@@ -1,0 +1,37 @@
+{
+  "duration": 32,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "timing": "Estimated narration; no recorded voice supplied.",
+  "cone_representation": "Rearward wavefront envelope; no photon trajectories or moving surface markers.",
+  "wave_to_source_speed": 0.8333333333333334,
+  "wavefront_half_angle_degrees": 56.44269023807929,
+  "cues": [
+    {
+      "start": 0,
+      "end": 9.5,
+      "narration": "Tıpkı süpersonik bir uçağın oluşturduğu ses dalgalarının bir araya gelerek sonik patlamaya sebep olması gibi,",
+      "visual": "Uçak büyüyen ses dalgalarını geride bırakır; dalga cephelerinin ortak zarfı belirginleşir."
+    },
+    {
+      "start": 9.5,
+      "end": 19.5,
+      "narration": "müon da suyun içerisinden geçerken elektromanyetik dalgaların belirli doğrultularda üst üste binip yoğunlaşmasına yol açıyor.",
+      "visual": "Uçak müona dönüşür, su belirir. Geriye açılan ortak dalga zarfı korunur."
+    },
+    {
+      "start": 19.5,
+      "end": 28.5,
+      "narration": "Bu sayede, hareket doğrultusu etrafında bir koni oluşturan özel bir ışınım ortaya çıkıyor.",
+      "visual": "Aynı tepe noktası ve geriye açılan zarf üç boyutlu yüzeye dönüşür. Kamera hafifçe döner; koni üzerinde hareketli işaret yoktur."
+    },
+    {
+      "start": 28.5,
+      "end": 32,
+      "narration": "Buna Cherenkov radyasyonu diyoruz.",
+      "visual": "Müonun arkasına açılan sade koni yüzeyi sabit açıyla tutulur."
+    }
+  ]
+}

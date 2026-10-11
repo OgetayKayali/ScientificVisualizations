@@ -1,0 +1,78 @@
+{
+  "duration": 70,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "paragraph_boundary": 32.5,
+  "timing": "Estimated narration timing; no voice recording supplied",
+  "visuals": "Schematic; not archival event data",
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "narration": "Projenin konsepti 1990’lardan önce başlıyor.",
+      "visual": "1987: çizim halindeki buz dedektörü ve fikir simgesi."
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "narration": "Önce Grönland’da bazı testler yapılıyor.",
+      "visual": "1990: temsili Grönland haritası, test kuyusu ve optik sensörler."
+    },
+    {
+      "start": 9.5,
+      "end": 18,
+      "narration": "Bundan yaklaşık 10 sene sonra, 1999’da IceCube’u ABD’nin TÜBİTAK’ı olan NSF’e resmi olarak teklif ediyorlar.",
+      "visual": "1999: dedektör çizimi bir proje dosyasına dönüşür ve NSF simgesine aktarılır."
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "narration": "2004 civarında inşası başlıyor,",
+      "visual": "2004: buz kesitinde sıcak su sondajı ilerler."
+    },
+    {
+      "start": 22,
+      "end": 28,
+      "narration": "ilk kabloyu 2005’te buzulun altına gönderiyorlar.",
+      "visual": "2005: sondaj deliğine ilk sensör kablosu indirilir."
+    },
+    {
+      "start": 28,
+      "end": 32.5,
+      "narration": "Bu sırada iki tane nötrino etkinliği yakalıyorlar.",
+      "visual": "2005: tek kablo yanında iki ayrı, yukarı yönlü müon izi sırayla kaydedilir."
+    },
+    {
+      "start": 32.5,
+      "end": 38,
+      "narration": "2010’da IceCube’un kurulumu tamamlanıyor.",
+      "visual": "2010: ilk kablodan bütün dedektör dizisine açılma; son kablolar yerleşir."
+    },
+    {
+      "start": 38,
+      "end": 44,
+      "narration": "İlk astrofiziksel kökene sahip nötrinolara ilişkin bulgularını ise ancak 2013’te açıklayabiliyorlar.",
+      "visual": "2013: dizi bir yayın sayfasına dönüşür; 28 olaylık örneklem sembolik noktalarla görünür."
+    },
+    {
+      "start": 44,
+      "end": 53,
+      "narration": "Aslında 2011 ve 2012’de, olağanüstü yüksek enerjili iki nötrino tespit etmişlerdi.",
+      "visual": "Zaman çizgisi geriye döner. 2011 ve 2012’de birbirinden ayrı iki cascade olayı."
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "narration": "Bunlara Bert ve Ernie isimlerini verdiler.",
+      "visual": "İki olay yan yana kalır; yalnızca uluslararası özel adları belirir."
+    },
+    {
+      "start": 57,
+      "end": 70,
+      "narration": "Fakat yalnızca iki olaydan yola çıkarak, bunların gerçekten uzayın derinliklerinden geldiğini kesin olarak söylemek mümkün değildi.",
+      "visual": "İki kayıt küçülür; atmosfer ve uzak uzay olasılıklarına noktalı bağlantılar ve soru işaretleri açılır."
+    }
+  ]
+}

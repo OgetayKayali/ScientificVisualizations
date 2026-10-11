@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:04,800
+İçindeki plakanın üzerine düşen ışık bir elektron koparıyor.
+
+2
+00:00:04,800 --> 00:00:08,300
+Plakalar arasına uygulanan yüksek gerilim sayesinde,
+
+3
+00:00:08,300 --> 00:00:12,100
+bu elektron hızlandırılarak karşıdaki plakaya çarptırılıyor
+
+4
+00:00:12,100 --> 00:00:17,800
+ve her seferinde elektron sayısı katlanarak artıyor.
+
+5
+00:00:17,800 --> 00:00:24,000
+En sonunda genelde milyon hatta yüz milyon kat çoğaltılmış bir elektrik sinyali oluyor.

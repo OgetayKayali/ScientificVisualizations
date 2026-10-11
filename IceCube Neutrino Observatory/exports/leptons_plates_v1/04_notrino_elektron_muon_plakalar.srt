@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:04,200
+Nötrinolar ender de olsa maddeyle etkileşiyor.
+
+2
+00:00:04,200 --> 00:00:07,200
+Etkileştiğinde diğer temel parçacıklar ortaya çıkıyor.
+
+3
+00:00:07,200 --> 00:00:11,000
+Bunlardan bizi ilgilendirenler özellikle elektronlar ve müonlar.
+
+4
+00:00:11,000 --> 00:00:14,500
+Elektronu zaten biliyorsunuz, negatif yüklü parçacık.
+
+5
+00:00:14,500 --> 00:00:20,200
+Müonu elektronun 207 kat ağır hali gibi düşünebilirsiniz.
+
+6
+00:00:20,200 --> 00:00:27,600
+Nötrinoları tespit etmek için en çok işimize en çok yarayan temel parçacıklar müonlar.
+
+7
+00:00:27,600 --> 00:00:36,000
+Çünkü elektrondan çok daha ağır oldukları için, yollarında önlerine onları durduracak pek bir şey kolay kolay çıkamıyor.
+
+8
+00:00:36,000 --> 00:00:41,500
+Bunu sırasıyla dizilmiş metal plakalara ateş etmek gibi düşünebilirsiniz.
+
+9
+00:00:41,500 --> 00:00:46,000
+Metal plakalar burada ortamdaki atomları temsil ediyor.
+
+10
+00:00:46,000 --> 00:00:50,500
+9 mm tabancayla ateşleyeceğimiz mermi de elektronu.
+
+11
+00:00:50,500 --> 00:00:54,000
+Bu mermi mutlaka birkaç plakayı geçer
+
+12
+00:00:54,000 --> 00:00:57,200
+ama her seferinde yolundan biraz şaşar,
+
+13
+00:00:57,200 --> 00:01:00,200
+metal plakadan parçalar koparır,
+
+14
+00:01:00,200 --> 00:01:06,200
+mermi nereden geldi, hangisi mermi, hangisi plakadan koptu anlamak zor.
+
+15
+00:01:06,200 --> 00:01:12,500
+Öte yandan 50 kalibre gibi çok daha büyük bir tüfekle ateş edecek olursak,
+
+16
+00:01:12,500 --> 00:01:18,700
+plakaları delip geçer, uzunca bir süre ciddi bir etkiye maruz kalmaz.
+
+17
+00:01:18,700 --> 00:01:22,000
+Bu da bizim müonumuz oluyor.

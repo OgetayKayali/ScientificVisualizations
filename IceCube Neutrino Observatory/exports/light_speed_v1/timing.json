@@ -1,0 +1,51 @@
+{
+  "duration": 40,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "timing": "Estimated narration; not synchronized to a voice recording.",
+  "ratios": {
+    "vacuum_light": 1,
+    "water_light": 0.75,
+    "illustrative_muon": 0.9
+  },
+  "cues": [
+    {
+      "start": 0,
+      "end": 5,
+      "narration": "Işığın vakumdaki hızını geçebilen bir parçacık yok.",
+      "visual": "Işık ve müon ortak başlangıçtan çıkar; müon ışık cephesinin gerisinde kalır."
+    },
+    {
+      "start": 5,
+      "end": 9.5,
+      "narration": "Saniyede yaklaşık 300 bin kilometre hızla gidiyor.",
+      "visual": "c ≈ 300 000 km/s; ilk karşılaştırmanın son konumu tutulur."
+    },
+    {
+      "start": 9.5,
+      "end": 14.2,
+      "narration": "Fakat ışığın hızı, bir ortama girdiğinde dramatik ölçüde düşüyor.",
+      "visual": "Alt sırada su hacmi belirir; iki ışık işareti eşzamanlı olarak ilerler."
+    },
+    {
+      "start": 14.2,
+      "end": 21,
+      "narration": "Örneğin ışık suya girdiği zaman, vakumdaki hızından %25 kadar daha yavaş hareket ediyor.",
+      "visual": "Alt ışık su sınırını geçince hızı 0.75c olur; üst ışık aynı hızla devam eder."
+    },
+    {
+      "start": 21,
+      "end": 26,
+      "narration": "Hatırlayın, fiziksel limitimiz, ışığın vakumdaki hızı.",
+      "visual": "Üstteki c referansı yeniden vurgulanır; su içindeki daha kısa yol korunur."
+    },
+    {
+      "start": 26,
+      "end": 40,
+      "narration": "Yani bir parçacık, ışığın vakumdaki hızından yavaş, ama maddesel ortamdaki hızından hızlı hareket edebilir.",
+      "visual": "Su alanı genişler. Üç işaret aynı başlangıçtan aynı anda çıkar; müon sudaki ışığın önünde ve vakum ışığının gerisinde kalır."
+    }
+  ]
+}

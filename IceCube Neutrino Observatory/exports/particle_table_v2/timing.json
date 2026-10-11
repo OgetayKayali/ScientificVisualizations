@@ -1,0 +1,66 @@
+{
+  "duration": 38,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "on_screen_text": "Universal particle symbols only",
+  "timing": "Estimated narration timing; no voice recording supplied",
+  "table_slots": [
+    "u",
+    "c",
+    "t",
+    "d",
+    "s",
+    "b",
+    "e⁻",
+    "μ⁻",
+    "τ⁻",
+    "nu_e",
+    "nu_mu",
+    "nu_tau",
+    "g",
+    "γ",
+    "Z⁰",
+    "W±",
+    "H"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 3,
+      "narration": "Bunların hepsi ışık sayesinde mümkün.",
+      "visual": "Işık dalgası ve γ simgesi görünür."
+    },
+    {
+      "start": 3,
+      "end": 8,
+      "narration": "Işık dediğimiz şey de aslında temel bir parçacık olan foton.",
+      "visual": "γ simgesi büyük bir parçacık kutusu içinde vurgulanır."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "narration": "Fakat bir sürü başka temel parçacık var ve bunların her birinin başka bir karakteri var.",
+      "visual": "Foton kutusu Standart Model tablosundaki yerine gider; kalan 16 kutu açılır. Parçacık aileleri sırayla vurgulanır."
+    },
+    {
+      "start": 15,
+      "end": 21,
+      "narration": "Bunlar evreni anlayışımız hakkında bambaşka bilgiler taşıyorlar.",
+      "visual": "Tam tablo okunur halde kalır. Foton ve üç nötrino kutusu öne çıkar; diğer aileler arka planda kalır."
+    },
+    {
+      "start": 21,
+      "end": 26,
+      "narration": "İşte Nobel’i kazandıran fikir de tam burada ortaya çıkıyor:",
+      "visual": "Üç nötrino kutusu tablodan ayrılarak merkeze gelir."
+    },
+    {
+      "start": 26,
+      "end": 38,
+      "narration": "Evrenin en enerjik olaylarından gelen nötrinoları yakalamak.",
+      "visual": "Temsili enerjik kozmik kaynak, νμ yolculuğu, buzda müon üretimi ve müon izine yakın DOM algılamaları."
+    }
+  ]
+}

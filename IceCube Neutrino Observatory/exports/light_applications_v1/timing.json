@@ -1,0 +1,47 @@
+{
+  "duration": 40,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "on_screen_text": false,
+  "timing": "Estimated narration timing; no voice recording supplied",
+  "cues": [
+    {
+      "start": 0,
+      "end": 9,
+      "narration": "Bir ortamdaki maddenin ne olduğunu anlamak için, o ortamdan geçen ışığın maruz kaldığı etkilere bakıyoruz.",
+      "visual": "Işık numuneden ve prizmadan geçer. Soğurma çizgileri bilinen üç spektral örnekten biriyle eşleşir."
+    },
+    {
+      "start": 9,
+      "end": 16,
+      "narration": "Bir yıldızın evrimini anlamak için ondan gelen ışığın değişimini inceliyoruz.",
+      "visual": "Temsili Güneş benzeri yıldız büyüyüp kızarır; gözlenen tayfın tepesi daha uzun dalga boylarına kayar."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "narration": "Ötegezegenleri görmek için yıldızının önünden geçip ışığını kesmesini bekliyoruz.",
+      "visual": "Gezegen yıldızın önünden geçer. Aynı örtüşme hesabından üretilen parlaklık eğrisi eşzamanlı düşer ve toparlanır."
+    },
+    {
+      "start": 24,
+      "end": 28.5,
+      "narration": "Hastalandığımızda hastanede röntgen,",
+      "visual": "Sabit X-ışını kaynağı, temsili gövde ve farklı soğurmayı gösteren radyografi."
+    },
+    {
+      "start": 28.5,
+      "end": 33,
+      "narration": "tomografi cihazları kullanıyoruz.",
+      "visual": "Kaynak gövde kesiti etrafında döner, karşısındaki dedektör ölçer; sağda kesit görüntüleri oluşur."
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "narration": "Yemeklerimizi ısıtmak için bile mikrodalga kullanıyoruz.",
+      "visual": "Kapalı mikrodalga fırın içinde dalgalar, ısınan çorba ve hafif buhar."
+    }
+  ]
+}

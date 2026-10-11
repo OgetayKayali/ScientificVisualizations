@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:09,000
+Bir ortamdaki maddenin ne olduğunu anlamak için, o ortamdan geçen ışığın maruz kaldığı etkilere bakıyoruz.
+
+2
+00:00:09,000 --> 00:00:16,000
+Bir yıldızın evrimini anlamak için ondan gelen ışığın değişimini inceliyoruz.
+
+3
+00:00:16,000 --> 00:00:24,000
+Ötegezegenleri görmek için yıldızının önünden geçip ışığını kesmesini bekliyoruz.
+
+4
+00:00:24,000 --> 00:00:28,500
+Hastalandığımızda hastanede röntgen,
+
+5
+00:00:28,500 --> 00:00:33,000
+tomografi cihazları kullanıyoruz.
+
+6
+00:00:33,000 --> 00:00:40,000
+Yemeklerimizi ısıtmak için bile mikrodalga kullanıyoruz.

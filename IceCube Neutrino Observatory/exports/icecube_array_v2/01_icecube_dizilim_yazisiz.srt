@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,600
+Her bir kabloda 60 tane dedektör
+
+2
+00:00:03,600 --> 00:00:06,500
+17 metre aralıklarla dizili bir şekilde
+
+3
+00:00:06,500 --> 00:00:11,500
+1.5 kilometre derinlikten, 2.5 kilometre derinliğe kadar uzanıyor.
+
+4
+00:00:11,500 --> 00:00:15,200
+Bu kablolardan 86 tanesi de
+
+5
+00:00:15,200 --> 00:00:19,200
+birbirinden 125 metre aralıklarla ayrılarak,
+
+6
+00:00:19,200 --> 00:00:23,800
+buzun içerisinde 1 kilometre küplük bir gözlemevi oluşturuyor.
+
+7
+00:00:23,800 --> 00:00:28,200
+Ve buradan bir parçacıkları, adım adım takip edebiliyoruz.
+
+8
+00:00:28,200 --> 00:00:32,000
+Fakat bu olay, anlattığım kadar kolay gerçekleşmiyor.
