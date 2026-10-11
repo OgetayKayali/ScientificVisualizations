@@ -1,0 +1,38 @@
+{
+  "duration": 32,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "cone_representation": "Rearward wavefront envelope; no photon trajectories or moving surface markers.",
+  "wave_to_source_speed": 0.8333333333333334,
+  "wavefront_half_angle_degrees": 56.44269023807929,
+  "cues": [
+    {
+      "start": 0,
+      "end": 9.5,
+      "narration": "A supersonic aircraft produces overlapping sound waves that form a shock front and a sonic boom.",
+      "visual": "An aircraft overtakes expanding sound waves, revealing their common rearward envelope."
+    },
+    {
+      "start": 9.5,
+      "end": 19.5,
+      "narration": "Similarly, a muon moving through water can produce electromagnetic waves that reinforce one another in particular directions.",
+      "visual": "The aircraft becomes a muon and water appears; the rearward wavefront envelope is preserved."
+    },
+    {
+      "start": 19.5,
+      "end": 28.5,
+      "narration": "The resulting radiation has a conical structure around the direction of motion.",
+      "visual": "The same apex and rearward envelope become a three-dimensional surface; the camera turns gently."
+    },
+    {
+      "start": 28.5,
+      "end": 32,
+      "narration": "This is called Cherenkov radiation.",
+      "visual": "A simple cone surface trails the muon at a fixed angle, without moving markers."
+    }
+  ],
+  "narration_language": "en"
+}

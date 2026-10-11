@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "width": 3840,
+  "height": 2160,
+  "duration": 24,
+  "fps": 30,
+  "audio": false,
+  "symbols": [
+    "PMT",
+    "γ",
+    "e⁻",
+    "ΔV",
+    "×10⁶–10⁸"
+  ],
+  "representative_electrons_per_stage": [
+    4,
+    9,
+    18,
+    32,
+    52,
+    80,
+    116,
+    162,
+    222,
+    300
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.8,
+      "narration": "Light striking the photocathode releases an electron.",
+      "visual": "A photon reaches the photocathode and releases one electron."
+    },
+    {
+      "start": 4.8,
+      "end": 8.3,
+      "narration": "A high voltage applied between successive electrodes",
+      "visual": "The voltage difference and successive dynodes are highlighted."
+    },
+    {
+      "start": 8.3,
+      "end": 12.1,
+      "narration": "accelerates the electron toward the next electrode,",
+      "visual": "The first electron accelerates toward the first dynode."
+    },
+    {
+      "start": 12.1,
+      "end": 17.8,
+      "narration": "multiplying the number of electrons at every stage.",
+      "visual": "Electrons multiply in dense, individually distinguishable bunches."
+    },
+    {
+      "start": 17.8,
+      "end": 24,
+      "narration": "The resulting electrical signal can be amplified by a million to a hundred million times.",
+      "visual": "Charge collects at the anode, followed by a gain indication and an output pulse."
+    }
+  ],
+  "narration_language": "en",
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice."
+}

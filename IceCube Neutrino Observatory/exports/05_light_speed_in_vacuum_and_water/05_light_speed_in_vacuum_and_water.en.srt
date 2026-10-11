@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:05,000
+No particle can travel faster than light in a vacuum.
+
+2
+00:00:05,000 --> 00:00:09,500
+That speed is approximately 300,000 kilometers per second.
+
+3
+00:00:09,500 --> 00:00:14,200
+But light travels more slowly inside a material.
+
+4
+00:00:14,200 --> 00:00:21,000
+In water, for example, visible light travels about 25 percent more slowly than in a vacuum.
+
+5
+00:00:21,000 --> 00:00:26,000
+Remember: the physical speed limit is the speed of light in a vacuum.
+
+6
+00:00:26,000 --> 00:00:40,000
+A particle can therefore travel slower than light in a vacuum, yet faster than light in a material.

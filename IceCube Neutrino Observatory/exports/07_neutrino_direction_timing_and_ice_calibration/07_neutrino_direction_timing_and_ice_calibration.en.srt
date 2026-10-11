@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:10,500
+One reason for building a detector array spanning a cubic kilometer is to determine where a neutrino came from.
+
+2
+00:00:10,500 --> 00:00:21,500
+If a muon neutrino interacts in the ice and produces a muon, the muon travels in nearly the same direction at high energies.
+
+3
+00:00:21,500 --> 00:00:28,500
+Reconstructing the muon's track can therefore reveal the neutrino's arrival direction with high precision.
+
+4
+00:00:28,500 --> 00:00:36,500
+IceCube's Digital Optical Modules, or DOMs, have nanosecond timing precision: a billionth of a second.
+
+5
+00:00:36,500 --> 00:00:40,000
+Their clocks are also synchronized.
+
+6
+00:00:40,000 --> 00:00:45,500
+When a DOM detects Cherenkov light, it measures and records the signal.
+
+7
+00:00:45,500 --> 00:00:58,500
+Comparing which detectors received light, and when, allows us to reconstruct the particle's path.
+
+8
+00:00:58,500 --> 00:01:04,000
+The entire detector array is embedded deep in the ice.
+
+9
+00:01:04,000 --> 00:01:16,000
+The ice blocks surface light and filters out many unwanted particles produced by cosmic rays.
+
+10
+00:01:16,000 --> 00:01:20,500
+The deep ice is also exceptionally transparent.
+
+11
+00:01:20,500 --> 00:01:28,500
+Cherenkov light can travel tens or even hundreds of meters to reach detectors.
+
+12
+00:01:28,500 --> 00:01:32,000
+But the ice is not perfectly transparent.
+
+13
+00:01:32,000 --> 00:01:39,000
+Some light is absorbed, and some is scattered into new directions.
+
+14
+00:01:39,000 --> 00:01:50,000
+To measure these effects, each DOM contains 12 LED flashers.
+
+15
+00:01:50,000 --> 00:02:02,000
+They emit controlled light pulses that nearby DOMs detect, revealing how light travels through the ice.
+
+16
+00:02:02,000 --> 00:02:12,000
+This calibrates both the optical properties of the ice and the timing response of the detectors.

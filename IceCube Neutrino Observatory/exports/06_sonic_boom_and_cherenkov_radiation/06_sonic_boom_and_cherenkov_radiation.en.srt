@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:09,500
+A supersonic aircraft produces overlapping sound waves that form a shock front and a sonic boom.
+
+2
+00:00:09,500 --> 00:00:19,500
+Similarly, a muon moving through water can produce electromagnetic waves that reinforce one another in particular directions.
+
+3
+00:00:19,500 --> 00:00:28,500
+The resulting radiation has a conical structure around the direction of motion.
+
+4
+00:00:28,500 --> 00:00:32,000
+This is called Cherenkov radiation.

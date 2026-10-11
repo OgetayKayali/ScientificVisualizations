@@ -1,0 +1,48 @@
+{
+  "duration": 40,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "on_screen_text": false,
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 9,
+      "narration": "We identify what a material is made of by studying how it affects light passing through it.",
+      "visual": "Light passes through a sample and a prism; absorption lines match one of three schematic reference spectra."
+    },
+    {
+      "start": 9,
+      "end": 16,
+      "narration": "We study a star's evolution by examining changes in its light.",
+      "visual": "A schematic Sun-like star expands and reddens as the spectral peak shifts to longer wavelengths."
+    },
+    {
+      "start": 16,
+      "end": 24,
+      "narration": "We can detect exoplanets when they pass in front of their stars and block some starlight.",
+      "visual": "A planet crosses the stellar disk while a light curve derived from the same overlap geometry dips and recovers."
+    },
+    {
+      "start": 24,
+      "end": 28.5,
+      "narration": "In medicine, we use X-rays",
+      "visual": "A fixed X-ray source and schematic body produce a radiograph illustrating differential absorption."
+    },
+    {
+      "start": 28.5,
+      "end": 33,
+      "narration": "and computed tomography to look inside the body.",
+      "visual": "The source rotates around a body cross-section with the detector opposite it; slice images appear beside it."
+    },
+    {
+      "start": 33,
+      "end": 40,
+      "narration": "We even use microwaves to heat our food.",
+      "visual": "Waves inside a closed microwave oven heat a bowl of soup, producing a little steam."
+    }
+  ],
+  "narration_language": "en"
+}

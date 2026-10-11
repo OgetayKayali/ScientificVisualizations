@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:04,800
+Light striking the photocathode releases an electron.
+
+2
+00:00:04,800 --> 00:00:08,300
+A high voltage applied between successive electrodes
+
+3
+00:00:08,300 --> 00:00:12,100
+accelerates the electron toward the next electrode,
+
+4
+00:00:12,100 --> 00:00:17,800
+multiplying the number of electrons at every stage.
+
+5
+00:00:17,800 --> 00:00:24,000
+The resulting electrical signal can be amplified by a million to a hundred million times.

@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,600
+Each string carries 60 detectors,
+
+2
+00:00:03,600 --> 00:00:06,500
+spaced 17 meters apart,
+
+3
+00:00:06,500 --> 00:00:11,500
+extending from a depth of 1.5 kilometers to 2.5 kilometers.
+
+4
+00:00:11,500 --> 00:00:15,200
+There are 86 of these strings,
+
+5
+00:00:15,200 --> 00:00:19,200
+with standard strings spaced about 125 meters apart,
+
+6
+00:00:19,200 --> 00:00:23,800
+forming an observatory that spans roughly one cubic kilometer of ice.
+
+7
+00:00:23,800 --> 00:00:28,200
+This lets us follow particles step by step.
+
+8
+00:00:28,200 --> 00:00:32,000
+But detecting them is not quite that simple.

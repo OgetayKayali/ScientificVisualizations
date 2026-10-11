@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:04,200
+Neutrinos occasionally interact with matter.
+
+2
+00:00:04,200 --> 00:00:07,200
+When they do, other elementary particles can be produced.
+
+3
+00:00:07,200 --> 00:00:11,000
+The particles of particular interest here are electrons and muons.
+
+4
+00:00:11,000 --> 00:00:14,500
+The electron is the familiar negatively charged particle.
+
+5
+00:00:14,500 --> 00:00:20,200
+A muon is similar to an electron, but about 207 times heavier.
+
+6
+00:00:20,200 --> 00:00:27,600
+Muons are especially useful for detecting neutrinos.
+
+7
+00:00:27,600 --> 00:00:36,000
+At high energies, they can travel much farther through matter than electrons, leaving long tracks.
+
+8
+00:00:36,000 --> 00:00:41,500
+Imagine firing projectiles through a sequence of metal plates.
+
+9
+00:00:41,500 --> 00:00:46,000
+The plates represent atoms in the surrounding material.
+
+10
+00:00:46,000 --> 00:00:50,500
+A small 9 mm projectile represents the electron.
+
+11
+00:00:50,500 --> 00:00:54,000
+In this analogy, it passes through the first few plates,
+
+12
+00:00:54,000 --> 00:00:57,200
+but changes direction as it goes,
+
+13
+00:00:57,200 --> 00:01:00,200
+knocking fragments from the plates.
+
+14
+00:01:00,200 --> 00:01:06,200
+The fragments make it difficult to identify the original projectile and trace where it came from.
+
+15
+00:01:06,200 --> 00:01:12,500
+Now imagine a much larger projectile, such as a .50-caliber round.
+
+16
+00:01:12,500 --> 00:01:18,700
+In our simplified analogy, it follows a straighter path through more plates.
+
+17
+00:01:18,700 --> 00:01:22,000
+That is our muon.

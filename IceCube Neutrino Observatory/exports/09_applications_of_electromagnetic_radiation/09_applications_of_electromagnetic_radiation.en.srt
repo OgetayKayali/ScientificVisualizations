@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:09,000
+We identify what a material is made of by studying how it affects light passing through it.
+
+2
+00:00:09,000 --> 00:00:16,000
+We study a star's evolution by examining changes in its light.
+
+3
+00:00:16,000 --> 00:00:24,000
+We can detect exoplanets when they pass in front of their stars and block some starlight.
+
+4
+00:00:24,000 --> 00:00:28,500
+In medicine, we use X-rays
+
+5
+00:00:28,500 --> 00:00:33,000
+and computed tomography to look inside the body.
+
+6
+00:00:33,000 --> 00:00:40,000
+We even use microwaves to heat our food.

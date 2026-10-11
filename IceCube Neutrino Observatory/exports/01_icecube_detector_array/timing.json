@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 32,
+  "audio": false,
+  "on_screen_text": false,
+  "enclosing_cube": false,
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 3.6,
+      "narration": "Each string carries 60 detectors,",
+      "visual": "A single string appears with 60 DOMs lighting up in sequence."
+    },
+    {
+      "start": 3.6,
+      "end": 6.5,
+      "narration": "spaced 17 meters apart,",
+      "visual": "The camera moves closer to two DOMs on the same string, emphasizing their spacing."
+    },
+    {
+      "start": 6.5,
+      "end": 11.5,
+      "narration": "extending from a depth of 1.5 kilometers to 2.5 kilometers.",
+      "visual": "The camera pulls back to reveal the ice surface, the long cable, and the deeply buried modules."
+    },
+    {
+      "start": 11.5,
+      "end": 15.2,
+      "narration": "There are 86 of these strings,",
+      "visual": "One string expands into a schematic array of 86 strings."
+    },
+    {
+      "start": 15.2,
+      "end": 19.2,
+      "narration": "with standard strings spaced about 125 meters apart,",
+      "visual": "Two neighboring standard strings light up while the surrounding array remains dim."
+    },
+    {
+      "start": 19.2,
+      "end": 23.8,
+      "narration": "forming an observatory that spans roughly one cubic kilometer of ice.",
+      "visual": "A slow camera rotation reveals the volume through parallax, without an enclosing cube."
+    },
+    {
+      "start": 23.8,
+      "end": 28.2,
+      "narration": "This lets us follow particles step by step.",
+      "visual": "A representative track advances, followed by signals at nearby DOM positions in the schematic array."
+    },
+    {
+      "start": 28.2,
+      "end": 32,
+      "narration": "But detecting them is not quite that simple.",
+      "visual": "The completed track and detector array hold for the transition."
+    }
+  ],
+  "narration_language": "en"
+}

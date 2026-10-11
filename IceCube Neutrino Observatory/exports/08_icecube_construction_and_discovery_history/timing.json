@@ -1,0 +1,79 @@
+{
+  "duration": 70,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "paragraph_boundary": 32.5,
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "visuals": "Schematic; not archival event data",
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "narration": "The concept behind the project dates back to before the 1990s.",
+      "visual": "1987: a detector sketch in the ice and an idea symbol appear."
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "narration": "Early tests were carried out in Greenland.",
+      "visual": "1990: a schematic Greenland map, test borehole, and optical sensors appear."
+    },
+    {
+      "start": 9.5,
+      "end": 18,
+      "narration": "In 1999, IceCube was formally proposed to the United States National Science Foundation, or NSF.",
+      "visual": "1999: a detector drawing becomes a proposal document and moves toward the NSF symbol."
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "narration": "Construction began around 2004,",
+      "visual": "2004: hot-water drilling advances through an ice cross-section."
+    },
+    {
+      "start": 22,
+      "end": 28,
+      "narration": "and the first detector string was installed in 2005.",
+      "visual": "2005: the first sensor string is lowered into a borehole."
+    },
+    {
+      "start": 28,
+      "end": 32.5,
+      "narration": "Two neutrino events were detected with that first string.",
+      "visual": "Two separate upward-going muon tracks are recorded beside the first string."
+    },
+    {
+      "start": 32.5,
+      "end": 38,
+      "narration": "IceCube's construction was completed in 2010.",
+      "visual": "The camera expands from one string to the full array as the final strings are added."
+    },
+    {
+      "start": 38,
+      "end": 44,
+      "narration": "Evidence for astrophysical neutrinos was announced in 2013.",
+      "visual": "The array becomes a publication page with dots representing the 28-event sample."
+    },
+    {
+      "start": 44,
+      "end": 53,
+      "narration": "Two exceptionally energetic neutrinos had already been detected in 2011 and 2012.",
+      "visual": "The timeline moves backward to two separate cascade events in 2011 and 2012."
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "narration": "They were nicknamed Bert and Ernie.",
+      "visual": "The two events remain side by side with their internationally used names."
+    },
+    {
+      "start": 57,
+      "end": 70,
+      "narration": "Those two events alone, however, were not enough to establish a distant cosmic origin conclusively.",
+      "visual": "The records connect to atmospheric and distant-space possibilities, with question marks indicating uncertainty."
+    }
+  ],
+  "narration_language": "en"
+}

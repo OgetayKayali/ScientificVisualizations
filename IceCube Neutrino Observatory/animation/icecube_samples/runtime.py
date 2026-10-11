@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Ogetay Kayali. See the repository LICENSE.md.
 """Resolve local tools without hard-coded user paths or bundled fonts."""
 from pathlib import Path
 import os, shutil

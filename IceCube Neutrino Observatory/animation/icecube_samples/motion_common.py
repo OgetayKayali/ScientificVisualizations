@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Ogetay Kayali. See the repository LICENSE.md.
 """Resolution-independent drawing and native-resolution video export."""
 from pathlib import Path
 from runtime import ffmpeg, font_path
@@ -62,7 +63,7 @@ def glow(im,points,r=6):
         circle(d,x,y,max(1,r*strength),tuple(int(c*strength) for c in ICE))
         circle(d,x,y,max(1,r*.38*strength),WHITE)
 def dom(im,x,y,r=50):
-    import render as old
+    import legacy_rendering_helpers as old
     sprite=old.dom_sprite(round(r*S))
     im.paste(sprite,(round(x*S-sprite.width/2),round(y*S-sprite.height/2)),sprite)
 def encode(scene,path,duration,preview_path=None):

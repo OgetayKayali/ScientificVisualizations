@@ -1,0 +1,52 @@
+{
+  "duration": 40,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "ratios": {
+    "vacuum_light": 1,
+    "water_light": 0.75,
+    "illustrative_muon": 0.9
+  },
+  "cues": [
+    {
+      "start": 0,
+      "end": 5,
+      "narration": "No particle can travel faster than light in a vacuum.",
+      "visual": "Light and a muon start together; the muon stays behind the light front."
+    },
+    {
+      "start": 5,
+      "end": 9.5,
+      "narration": "That speed is approximately 300,000 kilometers per second.",
+      "visual": "The comparison holds beside c ≈ 300 000 km/s."
+    },
+    {
+      "start": 9.5,
+      "end": 14.2,
+      "narration": "But light travels more slowly inside a material.",
+      "visual": "Water appears in the lower row as two light markers advance together."
+    },
+    {
+      "start": 14.2,
+      "end": 21,
+      "narration": "In water, for example, visible light travels about 25 percent more slowly than in a vacuum.",
+      "visual": "The lower light marker slows to about 0.75c after entering water; the upper marker keeps its speed."
+    },
+    {
+      "start": 21,
+      "end": 26,
+      "narration": "Remember: the physical speed limit is the speed of light in a vacuum.",
+      "visual": "The vacuum reference c is highlighted while the shorter path in water remains visible."
+    },
+    {
+      "start": 26,
+      "end": 40,
+      "narration": "A particle can therefore travel slower than light in a vacuum, yet faster than light in a material.",
+      "visual": "Three markers start together: the muon stays ahead of light in water but behind light in a vacuum."
+    }
+  ],
+  "narration_language": "en"
+}

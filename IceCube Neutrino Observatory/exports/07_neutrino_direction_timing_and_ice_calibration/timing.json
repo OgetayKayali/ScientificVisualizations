@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "duration": 132,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "enclosing_cube": false,
+  "paragraph_boundaries": [
+    28.5,
+    58.5
+  ],
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "pointing_event": {
+    "model": "schematic projected-distance attenuation",
+    "hits": 735,
+    "probability": "0.98 * exp(-(distance/43)^1.8)",
+    "note": "Logical image distances, not metres or a calibrated detector response"
+  },
+  "timing_event": {
+    "particles": 1,
+    "strings": 2,
+    "doms": 6,
+    "cone": "rearward wavefront envelope",
+    "saved_times": "illustrative relative nanoseconds; not real IceCube data",
+    "dom_geometry": "schematic; not engineering spacing"
+  },
+  "cues": [
+    {
+      "start": 0,
+      "end": 10.5,
+      "narration": "One reason for building a detector array spanning a cubic kilometer is to determine where a neutrino came from.",
+      "visual": "A three-dimensional array appears without an enclosing cube; a muon neutrino approaches an interaction point."
+    },
+    {
+      "start": 10.5,
+      "end": 21.5,
+      "narration": "If a muon neutrino interacts in the ice and produces a muon, the muon travels in nearly the same direction at high energies.",
+      "visual": "A muon emerges at a small angle to the incoming neutrino; nearby DOMs light up."
+    },
+    {
+      "start": 21.5,
+      "end": 28.5,
+      "narration": "Reconstructing the muon's track can therefore reveal the neutrino's arrival direction with high precision.",
+      "visual": "The track extends backward to emphasize the arrival direction, followed by a close-up of a hit DOM."
+    },
+    {
+      "start": 28.5,
+      "end": 36.5,
+      "narration": "IceCube's Digital Optical Modules, or DOMs, have nanosecond timing precision: a billionth of a second.",
+      "visual": "A large 0.000000001 s appears below 1 ns = 10⁻⁹ s, with eight decimal zeros appearing in sequence."
+    },
+    {
+      "start": 36.5,
+      "end": 40,
+      "narration": "Their clocks are also synchronized.",
+      "visual": "Two strings with three DOMs each appear; all six clocks share the same phase."
+    },
+    {
+      "start": 40,
+      "end": 45.5,
+      "narration": "When a DOM detects Cherenkov light, it measures and records the signal.",
+      "visual": "One muon passes between the strings; a timestamp is recorded when its trailing cone reaches the first DOM."
+    },
+    {
+      "start": 45.5,
+      "end": 58.5,
+      "narration": "Comparing which detectors received light, and when, allows us to reconstruct the particle's path.",
+      "visual": "The same muon and cone produce six fixed timestamps; the reconstructed track then becomes prominent."
+    },
+    {
+      "start": 58.5,
+      "end": 64,
+      "narration": "The entire detector array is embedded deep in the ice.",
+      "visual": "The DOMs return to the full array as the camera pulls back to show the surface and depth."
+    },
+    {
+      "start": 64,
+      "end": 76,
+      "narration": "The ice blocks surface light and filters out many unwanted particles produced by cosmic rays.",
+      "visual": "Daylight fades near the surface; most shower particles stop above the array, while a few penetrating muons remain."
+    },
+    {
+      "start": 76,
+      "end": 80.5,
+      "narration": "The deep ice is also exceptionally transparent.",
+      "visual": "The camera returns to the deep array and enlarges a DOM to introduce light propagation."
+    },
+    {
+      "start": 80.5,
+      "end": 88.5,
+      "narration": "Cherenkov light can travel tens or even hundreds of meters to reach detectors.",
+      "visual": "Schematic light pulses reach widely separated DOMs."
+    },
+    {
+      "start": 88.5,
+      "end": 92,
+      "narration": "But the ice is not perfectly transparent.",
+      "visual": "Two additional optical paths appear beside the direct path."
+    },
+    {
+      "start": 92,
+      "end": 99,
+      "narration": "Some light is absorbed, and some is scattered into new directions.",
+      "visual": "One pulse fades away; another changes direction several times and arrives later."
+    },
+    {
+      "start": 99,
+      "end": 110,
+      "narration": "To measure these effects, each DOM contains 12 LED flashers.",
+      "visual": "A receiving DOM enlarges to reveal a schematic flasher board with 12 LEDs."
+    },
+    {
+      "start": 110,
+      "end": 122,
+      "narration": "They emit controlled light pulses that nearby DOMs detect, revealing how light travels through the ice.",
+      "visual": "The DOM becomes a transmitter; surrounding DOMs record repeated controlled pulses."
+    },
+    {
+      "start": 122,
+      "end": 132,
+      "narration": "This calibrates both the optical properties of the ice and the timing response of the detectors.",
+      "visual": "Direct and scattered paths remain visible alongside measured pulse-time points and a fitted response curve."
+    }
+  ],
+  "illustrative_hit_times": [
+    {
+      "sensor": 1,
+      "contact_video_seconds": 50.31129657300484,
+      "saved_ns": 433
+    },
+    {
+      "sensor": 2,
+      "contact_video_seconds": 47.614883990509504,
+      "saved_ns": 319
+    },
+    {
+      "sensor": 3,
+      "contact_video_seconds": 44.91847140801417,
+      "saved_ns": 206
+    },
+    {
+      "sensor": 4,
+      "contact_video_seconds": 50.49013375442072,
+      "saved_ns": 440
+    },
+    {
+      "sensor": 5,
+      "contact_video_seconds": 48.14252413581882,
+      "saved_ns": 342
+    },
+    {
+      "sensor": 6,
+      "contact_video_seconds": 45.79491451721691,
+      "saved_ns": 243
+    }
+  ],
+  "narration_language": "en"
+}

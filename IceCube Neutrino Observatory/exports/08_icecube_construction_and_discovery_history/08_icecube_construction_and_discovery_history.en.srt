@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:04,500
+The concept behind the project dates back to before the 1990s.
+
+2
+00:00:04,500 --> 00:00:09,500
+Early tests were carried out in Greenland.
+
+3
+00:00:09,500 --> 00:00:18,000
+In 1999, IceCube was formally proposed to the United States National Science Foundation, or NSF.
+
+4
+00:00:18,000 --> 00:00:22,000
+Construction began around 2004,
+
+5
+00:00:22,000 --> 00:00:28,000
+and the first detector string was installed in 2005.
+
+6
+00:00:28,000 --> 00:00:32,500
+Two neutrino events were detected with that first string.
+
+7
+00:00:32,500 --> 00:00:38,000
+IceCube's construction was completed in 2010.
+
+8
+00:00:38,000 --> 00:00:44,000
+Evidence for astrophysical neutrinos was announced in 2013.
+
+9
+00:00:44,000 --> 00:00:53,000
+Two exceptionally energetic neutrinos had already been detected in 2011 and 2012.
+
+10
+00:00:53,000 --> 00:00:57,000
+They were nicknamed Bert and Ernie.
+
+11
+00:00:57,000 --> 00:01:10,000
+Those two events alone, however, were not enough to establish a distant cosmic origin conclusively.

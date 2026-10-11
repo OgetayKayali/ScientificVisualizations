@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "duration": 34,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "on_screen_symbols": [
+    "γ",
+    "ν",
+    "e⁻",
+    "PMT"
+  ],
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 6.8,
+      "narration": "We cannot receive light directly from the Sun's central region.",
+      "visual": "The Sun opens into a cutaway; a photon changes direction inside the core."
+    },
+    {
+      "start": 6.8,
+      "end": 12,
+      "narration": "The material is so dense that light immediately interacts with it.",
+      "visual": "The camera approaches the interior as a photon repeatedly interacts with dense plasma."
+    },
+    {
+      "start": 12,
+      "end": 17.8,
+      "narration": "But neutrinos produced by nuclear reactions in the Sun's core",
+      "visual": "A nuclear process is highlighted in the core; a neutrino emerges along a straight path."
+    },
+    {
+      "start": 17.8,
+      "end": 20.6,
+      "narration": "can pass through these layers with ease,",
+      "visual": "The neutrino crosses the Sun's layers and Earth appears."
+    },
+    {
+      "start": 20.6,
+      "end": 23.4,
+      "narration": "and we can detect some of them.",
+      "visual": "A rare neutrino interaction in a schematic detector on Earth produces a recoil electron and light."
+    },
+    {
+      "start": 23.4,
+      "end": 28.2,
+      "narration": "They give us direct information about processes deep inside the Sun",
+      "visual": "The cutaway, escaping neutrino, and detection event appear together."
+    },
+    {
+      "start": 28.2,
+      "end": 34,
+      "narration": "that we cannot obtain by studying light alone.",
+      "visual": "The indirect photon path and the neutrino reaching Earth remain visible as detector signals persist."
+    }
+  ],
+  "narration_language": "en"
+}

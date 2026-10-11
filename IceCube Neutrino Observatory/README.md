@@ -1,57 +1,64 @@
 # IceCube Neutrino Observatory
 
-Ten finished science animations for a Turkish-language video about IceCube and neutrinos. The visuals use a consistent navy/ice-blue palette and mostly universal symbols, so they can be reused with dubbing or subtitles in other languages.
+Ten scientific animations created by **Ogetay Kayali** about neutrinos, optical detection, and the IceCube Neutrino Observatory. These are part of the [Scientific Visualizations collection](../README.md).
 
-The latest revised versions are included. All master videos are native **3840 × 2160, 30 fps, silent H.264 MP4**. Timing follows an estimated narration pace; no recorded voice track was supplied. Turkish narration is provided separately in SRT files and timing metadata.
+The visuals use a consistent navy and ice-blue palette, minimal text, and widely recognized scientific symbols. They are designed for reuse with narration or subtitles in different languages. Every animation includes a silent **3840 × 2160, 30 fps H.264 MP4**, a **1920 × 1080** viewing copy, English captions, timing metadata, a poster, a short `INFO.md`, and scientific notes.
 
-## Animations
+## Browse the animations
 
-| # | Animation | Duration | Videos | Renderer |
+| # | Animation and info | Duration | Videos | Renderer |
 |---|---|---:|---|---|
-| 01 | IceCube detector array | 32 s | [4K](exports/icecube_array_v2_4k/01_icecube_dizilim_yazisiz_4k.mp4) · [1080p](exports/icecube_array_v2/01_icecube_dizilim_yazisiz.mp4) | [Python](animation/icecube_samples/export_array_4k.py) |
-| 02 | PMT electron multiplication | 24 s | [4K](exports/pmt_bunches_v2/02_pmt_elektron_demetleri_4k.mp4) · [1080p](exports/pmt_bunches_v2/02_pmt_elektron_demetleri_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_pmt_v2.py) |
-| 03 | Solar photons and neutrinos | 34 s | [4K](exports/solar_neutrinos_v2/03_gunes_notrinolari_4k.mp4) · [1080p](exports/solar_neutrinos_v2/03_gunes_notrinolari_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_solar_neutrinos.py) |
-| 04 | Electrons, muons and metal plates | 82 s | [4K](exports/leptons_plates_v1/04_notrino_elektron_muon_plakalar_4k.mp4) · [1080p](exports/leptons_plates_v1/04_notrino_elektron_muon_plakalar_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_leptons_plates.py) |
-| 05 | Light speed in vacuum and water | 40 s | [4K](exports/light_speed_v1/05_isigin_hizi_vakum_su_4k.mp4) · [1080p](exports/light_speed_v1/05_isigin_hizi_vakum_su_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_light_speed.py) |
-| 06 | Sonic boom and Cherenkov radiation | 32 s | [4K](exports/cherenkov_v2/06_sonik_patlama_cherenkov_4k.mp4) · [1080p](exports/cherenkov_v2/06_sonik_patlama_cherenkov_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_cherenkov_v2.py) |
-| 07 | Direction, timing and ice calibration | 132 s | [4K](exports/direction_calibration_v3/07_yon_zamanlama_buz_kalibrasyon_4k.mp4) · [1080p](exports/direction_calibration_v3/07_yon_zamanlama_buz_kalibrasyon_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_direction_calibration_v3.py) |
-| 08 | IceCube history | 70 s | [4K](exports/icecube_history_v1/08_icecube_tarihce_4k.mp4) · [1080p](exports/icecube_history_v1/08_icecube_tarihce_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_history.py) |
-| 09 | Understanding the world with light | 40 s | [4K](exports/light_applications_v1/09_isikla_anlamak_4k.mp4) · [1080p](exports/light_applications_v1/09_isikla_anlamak_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_light_applications.py) |
-| 10 | Standard Model and cosmic neutrinos | 38 s | [4K](exports/particle_table_v2/10_temel_parcaciklar_notrinolar_4k.mp4) · [1080p](exports/particle_table_v2/10_temel_parcaciklar_notrinolar_onizleme_1080p.mp4) | [Python](animation/icecube_samples/render_particle_table_v2.py) |
+| 01 | [IceCube Detector Array](exports/01_icecube_detector_array/INFO.md) | 32 s | [4K](exports/01_icecube_detector_array/01_icecube_detector_array_4k.mp4) · [1080p](exports/01_icecube_detector_array/01_icecube_detector_array_1080p.mp4) | [render_detector_array_4k.py](animation/icecube_samples/render_detector_array_4k.py) |
+| 02 | [Photomultiplier Electron Multiplication](exports/02_photomultiplier_electron_multiplication/INFO.md) | 24 s | [4K](exports/02_photomultiplier_electron_multiplication/02_photomultiplier_electron_multiplication_4k.mp4) · [1080p](exports/02_photomultiplier_electron_multiplication/02_photomultiplier_electron_multiplication_1080p.mp4) | [render_photomultiplier_electron_multiplication.py](animation/icecube_samples/render_photomultiplier_electron_multiplication.py) |
+| 03 | [Solar Photons and Neutrinos](exports/03_solar_photons_and_neutrinos/INFO.md) | 34 s | [4K](exports/03_solar_photons_and_neutrinos/03_solar_photons_and_neutrinos_4k.mp4) · [1080p](exports/03_solar_photons_and_neutrinos/03_solar_photons_and_neutrinos_1080p.mp4) | [render_solar_photons_and_neutrinos.py](animation/icecube_samples/render_solar_photons_and_neutrinos.py) |
+| 04 | [Electron and Muon Tracks: A Metal-Plate Analogy](exports/04_electron_and_muon_tracks_plate_analogy/INFO.md) | 82 s | [4K](exports/04_electron_and_muon_tracks_plate_analogy/04_electron_and_muon_tracks_plate_analogy_4k.mp4) · [1080p](exports/04_electron_and_muon_tracks_plate_analogy/04_electron_and_muon_tracks_plate_analogy_1080p.mp4) | [render_electron_muon_plate_analogy.py](animation/icecube_samples/render_electron_muon_plate_analogy.py) |
+| 05 | [Light Speed in Vacuum and Water](exports/05_light_speed_in_vacuum_and_water/INFO.md) | 40 s | [4K](exports/05_light_speed_in_vacuum_and_water/05_light_speed_in_vacuum_and_water_4k.mp4) · [1080p](exports/05_light_speed_in_vacuum_and_water/05_light_speed_in_vacuum_and_water_1080p.mp4) | [render_light_speed_comparison.py](animation/icecube_samples/render_light_speed_comparison.py) |
+| 06 | [Sonic Boom and Cherenkov Radiation](exports/06_sonic_boom_and_cherenkov_radiation/INFO.md) | 32 s | [4K](exports/06_sonic_boom_and_cherenkov_radiation/06_sonic_boom_and_cherenkov_radiation_4k.mp4) · [1080p](exports/06_sonic_boom_and_cherenkov_radiation/06_sonic_boom_and_cherenkov_radiation_1080p.mp4) | [render_cherenkov_radiation.py](animation/icecube_samples/render_cherenkov_radiation.py) |
+| 07 | [Neutrino Direction, Timing, and Ice Calibration](exports/07_neutrino_direction_timing_and_ice_calibration/INFO.md) | 132 s | [4K](exports/07_neutrino_direction_timing_and_ice_calibration/07_neutrino_direction_timing_and_ice_calibration_4k.mp4) · [1080p](exports/07_neutrino_direction_timing_and_ice_calibration/07_neutrino_direction_timing_and_ice_calibration_1080p.mp4) | [render_neutrino_direction_and_ice_calibration.py](animation/icecube_samples/render_neutrino_direction_and_ice_calibration.py) |
+| 08 | [IceCube Construction and Discovery History](exports/08_icecube_construction_and_discovery_history/INFO.md) | 70 s | [4K](exports/08_icecube_construction_and_discovery_history/08_icecube_construction_and_discovery_history_4k.mp4) · [1080p](exports/08_icecube_construction_and_discovery_history/08_icecube_construction_and_discovery_history_1080p.mp4) | [render_icecube_history.py](animation/icecube_samples/render_icecube_history.py) |
+| 09 | [Applications of Electromagnetic Radiation](exports/09_applications_of_electromagnetic_radiation/INFO.md) | 40 s | [4K](exports/09_applications_of_electromagnetic_radiation/09_applications_of_electromagnetic_radiation_4k.mp4) · [1080p](exports/09_applications_of_electromagnetic_radiation/09_applications_of_electromagnetic_radiation_1080p.mp4) | [render_electromagnetic_radiation_applications.py](animation/icecube_samples/render_electromagnetic_radiation_applications.py) |
+| 10 | [The Standard Model and Cosmic Neutrinos](exports/10_standard_model_and_cosmic_neutrinos/INFO.md) | 38 s | [4K](exports/10_standard_model_and_cosmic_neutrinos/10_standard_model_and_cosmic_neutrinos_4k.mp4) · [1080p](exports/10_standard_model_and_cosmic_neutrinos/10_standard_model_and_cosmic_neutrinos_1080p.mp4) | [render_standard_model_and_cosmic_neutrinos.py](animation/icecube_samples/render_standard_model_and_cosmic_neutrinos.py) |
 
-![Standard Model animation](exports/particle_table_v2/poster.jpg)
+![Standard Model animation](exports/10_standard_model_and_cosmic_neutrinos/poster.jpg)
 
-## Reproduce
+## Reproduce the animations
 
-Use Python 3.11+ and install FFmpeg separately. Run these commands from this folder:
+Install Python 3.11 or later and FFmpeg. Run from this topic folder:
 
 ```sh
 python -m pip install -r requirements.txt
-python animation/icecube_samples/render_particle_table_v2.py --scale 2
+python animation/icecube_samples/render_standard_model_and_cosmic_neutrinos.py --scale 2
 ```
 
-All normal renderers in the table accept `--scale 2` for native 4K and `--scale 1` for 1080p. Add `--preview` to generate only still previews and timing files. A 4K run also creates a 1080p viewing copy. Render commands overwrite the corresponding files inside `exports/`.
+For animations 02–10, `--scale 2` renders native 4K and also creates a 1080p viewing copy; `--scale 1` renders 1080p directly. Add `--preview` to write still previews and English timing/caption files without encoding the video. Output filenames match the published English names. Rendering overwrites the corresponding outputs in `exports/`.
 
-The first animation has a separate native-4K entry point:
+Animation 01 has separate entry points:
 
 ```sh
-python animation/icecube_samples/export_array_4k.py
-python animation/icecube_samples/render_array_v2.py
+python animation/icecube_samples/render_detector_array.py
+python animation/icecube_samples/render_detector_array_4k.py
 ```
 
-The second command reproduces its original 1080p version and narration metadata. `render.py` is retained as a shared helper dependency, not as the entry point for the final animations. Keep the source files together: some renderers reuse geometry and drawing helpers from other scenes.
+The first writes the original 1080p version, English captions, and cue metadata; it accepts `--preview`. The second rasterizes the same geometry natively at 4K. Keep all source files together: renderers share drawing helpers and geometry. `legacy_rendering_helpers.py` supports the final renderers and retains earlier scene functions; it is not a final-animation entry point.
 
-FFmpeg is resolved from `FFMPEG_BINARY`, then PATH, then the original Windows installation location. The original videos use Segoe UI on Windows. The source also checks common DejaVu Sans, Liberation Sans and Arial locations. Set `ANIMATION_FONT` and `ANIMATION_FONT_BOLD` to custom TrueType font paths if needed. A different font can slightly change symbol placement. No font files are redistributed.
+FFmpeg is resolved from `FFMPEG_BINARY`, then PATH, then the original Windows fallback. Fonts are resolved from `ANIMATION_FONT` and `ANIMATION_FONT_BOLD`, or common Segoe UI, DejaVu Sans, Liberation Sans, and Arial paths. The published videos use Segoe UI on Windows; another font may slightly change symbol placement. Font files are not redistributed. Dependencies retain their own licenses.
 
-Source geometry and timing are preserved; the packaging changes only make executable/font paths configurable and remove a machine-specific document path. The published MP4s are byte-for-byte copies of the final local exports. Their SHA-256 hashes are recorded in `manifest.json`.
+## Files and timing
 
-## Contents and scientific notes
+- `exports/01_.../` through `exports/10_.../`: one descriptive folder per animation, including both video resolutions.
+- `INFO.md`: short explanation, asset links, and credits for that animation.
+- `SCIENTIFIC_NOTES.md`: scene sequence, scientific assumptions, limitations, and references.
+- `*.en.srt`: English captions, separate from the video.
+- `timing.json`: English narration, visual descriptions, and editorial cue times.
+- `animation/icecube_samples/`: editable Python renderers and helpers.
+- `manifest.json`: asset paths, durations, original render versions, and SHA-256 video checksums.
 
-- `animation/icecube_samples/`: editable Python renderers and shared helpers.
-- `exports/`: final videos, poster frames, Turkish SRT narration, timing JSON and scene-specific notes.
-- `manifest.json`: titles, file paths, durations and video checksums.
-- `requirements.txt`: versions of NumPy and Pillow used for production.
+English captions adapt the original narration for an international audience and retain the existing cue boundaries. No recorded English narration was used; retiming may be needed for a particular voice track. Scientific symbols and existing proper names remain in the videos. The MP4s preserve the approved visual renders; this English release changes filenames, supporting text, and renderer output paths.
 
-The visualizations are schematic, not raw IceCube measurements or detector-response simulations. Timing values, object sizes and travel times may be exaggerated for readability. Consult each export folder's `KURGU_NOTLARI.md` or `NOTLAR.md` for scientific details and source links.
+These are schematic teaching visuals, not measured IceCube events or calibrated detector-response simulations. Read each animation's scientific notes before presenting quantitative interpretations.
 
-The final revisions include the corrected rearward Cherenkov cone, distance-dependent DOM hits, a single-muon timing event with six DOMs on two strings, and foreground neutrino cards in the Standard Model transition.
+## Credit, GPT disclosure, and reuse
+
+Created and directed by **Ogetay Kayali**. GPT (OpenAI) was used as an assistant during development for code generation, revisions, documentation, and translation. The rendered images are produced procedurally by the supplied Python code; no stock video, external photographs, or synthetic narration are included.
+
+Copyright (c) 2026 Ogetay Kayali. The animations, source code, and documentation may be used, copied, shared, and modified free of charge for **noncommercial educational purposes**, with attribution and the license notice retained. **All other uses require prior written permission.** Read the full [LICENSE.md](../LICENSE.md) and [CREDITS.md](../CREDITS.md). This is a custom, restricted-use license, not an open-source license.

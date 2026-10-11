@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,000
+All of this is possible because of light.
+
+2
+00:00:03,000 --> 00:00:08,000
+Light consists of photons, which are elementary particles.
+
+3
+00:00:08,000 --> 00:00:15,000
+But there are many other elementary particles, each with different properties.
+
+4
+00:00:15,000 --> 00:00:21,000
+Different particles can provide different kinds of information about the universe.
+
+5
+00:00:21,000 --> 00:00:26,000
+This leads to the central idea of neutrino astronomy:
+
+6
+00:00:26,000 --> 00:00:38,000
+detecting neutrinos from some of the most energetic events in the universe.

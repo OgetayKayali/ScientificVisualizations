@@ -1,0 +1,118 @@
+{
+  "duration": 82,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "paragraph_boundary": 36,
+  "transition": [
+    35.4,
+    40.6
+  ],
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.2,
+      "narration": "Neutrinos occasionally interact with matter.",
+      "visual": "Many neutrinos pass through matter; one interaction is selected."
+    },
+    {
+      "start": 4.2,
+      "end": 7.2,
+      "narration": "When they do, other elementary particles can be produced.",
+      "visual": "The first interaction produces short secondary tracks and an electron."
+    },
+    {
+      "start": 7.2,
+      "end": 11,
+      "narration": "The particles of particular interest here are electrons and muons.",
+      "visual": "A separate second event produces a muon, establishing two comparison rows."
+    },
+    {
+      "start": 11,
+      "end": 14.5,
+      "narration": "The electron is the familiar negatively charged particle.",
+      "visual": "The electron and its e⁻ symbol are highlighted."
+    },
+    {
+      "start": 14.5,
+      "end": 20.2,
+      "narration": "A muon is similar to an electron, but about 207 times heavier.",
+      "visual": "The mass comparison m(μ⁻) ≈ 207 m(e⁻) appears."
+    },
+    {
+      "start": 20.2,
+      "end": 27.6,
+      "narration": "Muons are especially useful for detecting neutrinos.",
+      "visual": "The upper row shows a short electron shower; the lower row shows a long muon track."
+    },
+    {
+      "start": 27.6,
+      "end": 36,
+      "narration": "At high energies, they can travel much farther through matter than electrons, leaving long tracks.",
+      "visual": "The long muon track is compared with the short electron shower before the transition."
+    },
+    {
+      "start": 36,
+      "end": 41.5,
+      "narration": "Imagine firing projectiles through a sequence of metal plates.",
+      "visual": "Atoms smoothly transform into metal plates at the same positions."
+    },
+    {
+      "start": 41.5,
+      "end": 46,
+      "narration": "The plates represent atoms in the surrounding material.",
+      "visual": "Atom symbols briefly reappear over the plates to establish the analogy."
+    },
+    {
+      "start": 46,
+      "end": 50.5,
+      "narration": "A small 9 mm projectile represents the electron.",
+      "visual": "A small projectile in the upper row is paired with e⁻ and 9 mm."
+    },
+    {
+      "start": 50.5,
+      "end": 54,
+      "narration": "In this analogy, it passes through the first few plates,",
+      "visual": "The small projectile enters the first plates."
+    },
+    {
+      "start": 54,
+      "end": 57.2,
+      "narration": "but changes direction as it goes,",
+      "visual": "The track changes direction after impacts."
+    },
+    {
+      "start": 57.2,
+      "end": 60.2,
+      "narration": "knocking fragments from the plates.",
+      "visual": "Plate and projectile fragments scatter with the same visual appearance."
+    },
+    {
+      "start": 60.2,
+      "end": 66.2,
+      "narration": "The fragments make it difficult to identify the original projectile and trace where it came from.",
+      "visual": "The upper row holds a short, scattered track with mixed fragments."
+    },
+    {
+      "start": 66.2,
+      "end": 72.5,
+      "narration": "Now imagine a much larger projectile, such as a .50-caliber round.",
+      "visual": "A larger schematic projectile in the lower row is paired with μ⁻ and .50."
+    },
+    {
+      "start": 72.5,
+      "end": 78.7,
+      "narration": "In our simplified analogy, it follows a straighter path through more plates.",
+      "visual": "The larger projectile leaves a straighter track through the array and small holes in the plates."
+    },
+    {
+      "start": 78.7,
+      "end": 82,
+      "narration": "That is our muon.",
+      "visual": "The projectile transforms into a μ⁻ symbol, and both tracks remain visible."
+    }
+  ],
+  "narration_language": "en"
+}

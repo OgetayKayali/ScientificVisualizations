@@ -1,0 +1,67 @@
+{
+  "duration": 38,
+  "fps": 30,
+  "width": 3840,
+  "height": 2160,
+  "audio": false,
+  "on_screen_text": "Universal particle symbols only",
+  "timing": "Editorial cue timings retained from the original animation; English narration is a translation and is not aligned to a recorded voice.",
+  "table_slots": [
+    "u",
+    "c",
+    "t",
+    "d",
+    "s",
+    "b",
+    "e⁻",
+    "μ⁻",
+    "τ⁻",
+    "nu_e",
+    "nu_mu",
+    "nu_tau",
+    "g",
+    "γ",
+    "Z⁰",
+    "W±",
+    "H"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 3,
+      "narration": "All of this is possible because of light.",
+      "visual": "A light wave and a γ symbol appear."
+    },
+    {
+      "start": 3,
+      "end": 8,
+      "narration": "Light consists of photons, which are elementary particles.",
+      "visual": "The γ symbol is highlighted inside a large particle tile."
+    },
+    {
+      "start": 8,
+      "end": 15,
+      "narration": "But there are many other elementary particles, each with different properties.",
+      "visual": "The photon tile moves into the Standard Model table as the other 16 tiles appear; particle families are highlighted."
+    },
+    {
+      "start": 15,
+      "end": 21,
+      "narration": "Different particles can provide different kinds of information about the universe.",
+      "visual": "The full table remains visible while the photon and three neutrino tiles stand out."
+    },
+    {
+      "start": 21,
+      "end": 26,
+      "narration": "This leads to the central idea of neutrino astronomy:",
+      "visual": "The three neutrino tiles move from their table positions to the foreground."
+    },
+    {
+      "start": 26,
+      "end": 38,
+      "narration": "detecting neutrinos from some of the most energetic events in the universe.",
+      "visual": "A schematic cosmic source emits a muon neutrino, which produces a muon in ice and lights nearby DOMs."
+    }
+  ],
+  "narration_language": "en"
+}

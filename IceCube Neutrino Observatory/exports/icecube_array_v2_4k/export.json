@@ -1,9 +1,0 @@
-{
-  "width": 3840,
-  "height": 2160,
-  "fps": 30,
-  "duration": 32,
-  "audio": false,
-  "render": "Native-resolution rasterization of approved v2 geometry; not video upscaling.",
-  "source": "animation/icecube_samples/render_array_v2.py"
-}
