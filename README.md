@@ -9,6 +9,7 @@ The repository is organized into topic folders. Each folder contains related exa
 | Topic | Contents |
 |---|---|
 | [IceCube Neutrino Observatory](IceCube%20Neutrino%20Observatory/README.md) | Ten animations covering detector geometry, photons and neutrinos, PMTs, muon tracks, Cherenkov radiation, timing and calibration, IceCube history, electromagnetic radiation, and the Standard Model. |
+| [Galaxy Merger](Galaxy%20Merger/README.md) | Interactive galaxy merger simulator with gravity, gas dynamics, stellar populations, dust, and adjustable optical emission; C++ source, presets, and validation tools. |
 
 Open a topic README to browse its animations, download 4K or 1080p videos, and find reproduction instructions. Each animation has a short `INFO.md` and scientific notes describing what it shows and where the representation is simplified.
 
@@ -29,3 +30,4 @@ Suggested credit:
 > Scientific visualization by Ogetay Kayali — ScientificVisualizations. Developed with GPT assistance. Used under the Ogetay Kayali Noncommercial Educational License 1.0.
 
 For adaptations, add a brief description of your changes and link to this repository.
+

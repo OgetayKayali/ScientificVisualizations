@@ -1,0 +1,15 @@
+build/
+.vs/
+out/
+*.user
+imgui.ini
+*.traj
+*.gltf
+.cursor/
+.codex/
+__pycache__/
+*.pyc
+*.exe
+*.pdb
+*.obj
+*.lib
